@@ -20,3 +20,4 @@ const isPerson = (obj: any): obj is Person => {
 //
 
 const str = 'asdf2';
+console.log(str);
